@@ -16,3 +16,6 @@ States with the highest EV registrations should be prioritized for:
 - Service center capacity planning
 - Delivery infrastructure
 - Customer support staffing
+  
+## Data Timing Note
+This analysis is based on EV registration data as of 2023. While not real-time, the data captures structural EV adoption patterns and installed base concentration, which continue to drive customer-facing operational demand (service, delivery, and support) in subsequent years.
