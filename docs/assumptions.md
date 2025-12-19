@@ -15,3 +15,6 @@
 ### Mitigations
 - Results will be interpreted directionally rather than as precise forecasts
 - Findings will be combined with additional demand proxies in later analysis phases
+
+### Data Timing Clarification
+EV registration counts represent the cumulative installed base as of the most recent reporting period, while Google Trends data reflects relative service-related search interest over the trailing 12 months (12/18/24–12/18/25). These datasets are intentionally combined to distinguish structural demand from near-term momentum.
